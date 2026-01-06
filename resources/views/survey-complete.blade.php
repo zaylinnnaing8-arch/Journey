@@ -189,6 +189,6 @@
 
         window.addEventListener('load', createConfetti);
     </script>
-    <x-footer />
+
 </body>
 </html>
